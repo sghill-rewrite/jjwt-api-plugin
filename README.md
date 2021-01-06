@@ -9,6 +9,7 @@
 ## Introduction
 
 Bundles [JJWT](https://github.com/jwtk/jjwt) for use from Jenkins plugins.
+This provides JSON Web Token functionality.
 
 ## Releasing
 
